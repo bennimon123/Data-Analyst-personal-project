@@ -1,0 +1,26 @@
+# ZARA Retail Sales Analysis – Power BI
+
+## Project Overview
+This project is based on a retail dataset inspired by ZARA clothing sales.
+The goal was to analyse how product promotion and placement inside stores
+influenced customer behaviour and sales performance.
+
+## Business Objective
+* Evaluate whether promotions increased product sales
+* Understand customer purchasing behaviour
+* Support business decision-making through data insights
+
+## Tools Used
+Power BI | Data Cleaning | Figma (Dashboard Design)
+
+## Business Insights
+* Promotions improved sales performance by approximately 47.62%
+* Products placed in aisle positions achieved higher sales compared to end-cap and front-store placements
+* Women’s category showed the highest purchase rate
+* Promotional placement increased product price in certain positions while maintaining strong sales performance
+* Total analysed profit reached 38.99M
+
+## My Role
+* Cleaned and prepared the dataset for analysis
+* Built interactive Power BI dashboards
+* Analysed business questions to generate actionable insights
